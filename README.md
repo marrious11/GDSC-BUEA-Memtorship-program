@@ -1,4 +1,4 @@
-# GDSC UB MEMTORSHIP PROGRAM 2022/2023 - BACKEND
+# GDSC UB MENTORSHIP PROGRAM 2022/2023 - BACKEND
 
 This is a repository where we will be sending our exercices
 
@@ -11,9 +11,9 @@ Prerequisite Fork and Make the project available locally. Run the command below 
 Create a branch for the task
 
 ```
-    git branch -M myHandle (NB: the handle is your github user name)
+    git branch -M exercises
 
-    git checkout myHandle
+    git checkout exercices
 ```
 
 After that, follow the steps below.
