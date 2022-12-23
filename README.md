@@ -35,7 +35,7 @@ Step 2: Commit the change made and push
    
     git commit -am "exercise[1 to 3] from <githubHandle or githubusername>"
 
-    git push origin HEAD
+   git push -u origin exercises
 ```
 
 Come back to our github repo here and do a pull request.
