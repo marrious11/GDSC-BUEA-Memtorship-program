@@ -4,9 +4,7 @@ This is a repository where we will be sending our exercices
 
 ## How can I submit my work for the first time?
 
-Prerequisite Fork and Make the project available locally. Run the command below for that:
-
-    git clone https://github.com/jordanwilfry/GDSC-BUEA-Memtorship-program.git
+Prerequisite Fork and Make the project available locally. and clone the project form your repository
 
 Create a branch for the task
 
@@ -25,7 +23,7 @@ Step 2: Commit the change made and push
    
     git commit -am "exercise 1 question 1 from <githubHandle or githubusername>"
 
-    git push origin HEAD
+    git push -u origin exercises
 ```
 
 **if you did many question at once use:**
@@ -35,7 +33,7 @@ Step 2: Commit the change made and push
    
     git commit -am "exercise[1 to 3] from <githubHandle or githubusername>"
 
-    git push origin HEAD
+   git push -u origin exercises
 ```
 
 Come back to our github repo here and do a pull request.
