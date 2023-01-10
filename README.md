@@ -23,7 +23,7 @@ Step 2: Commit the change made and push
    
     git commit -am "exercise 1 question 1 from <githubHandle or githubusername>"
 
-    git push -u origin exercises
+    git push -u origin exercises.
 ```
 
 **if you did many question at once use:**
